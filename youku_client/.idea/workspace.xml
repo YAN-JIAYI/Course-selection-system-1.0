@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="482ebce2-0e6d-4f88-91cb-ab21a82167ac" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="43" column="61" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="61" />
+              <folding>
+                <element signature="e#133#176#0" />
+                <element signature="e#204#887#0" />
+                <element signature="e#224#887#0" />
+                <element signature="e#397#887#0" />
+                <element signature="e#408#565#0" />
+                <element signature="e#578#612#0" />
+                <element signature="e#777#825#0" />
+                <element signature="e#1032#1183#0" />
+                <element signature="e#1614#2049#0" />
+                <element signature="e#1650#1681#0" />
+                <element signature="e#1757#2007#0" />
+                <element signature="e#1768#1858#0" />
+                <element signature="e#2093#2378#0" />
+                <element signature="e#2104#2189#0" />
+                <element signature="e#2426#4349#0" />
+                <element signature="e#2446#4349#0" />
+                <element signature="e#2481#2612#0" />
+                <element signature="e#2720#4277#0" />
+                <element signature="e#3208#3441#0" />
+                <element signature="e#3563#4277#0" />
+                <element signature="e#3861#3924#0" />
+                <element signature="e#4026#4219#0" />
+                <element signature="e#4080#4189#0" />
+                <element signature="e#4305#4349#0" />
+                <element signature="e#4397#6528#0" />
+                <element signature="e#4418#6528#0" />
+                <element signature="e#4624#4658#0" />
+                <element signature="e#4703#4833#0" />
+                <element signature="e#4941#6456#0" />
+                <element signature="e#5429#5662#0" />
+                <element signature="e#5784#6456#0" />
+                <element signature="e#6205#6398#0" />
+                <element signature="e#6259#6368#0" />
+                <element signature="e#6484#6528#0" />
+                <element signature="e#6580#6870#0" />
+                <element signature="e#6591#6668#0" />
+                <element signature="e#6775#6819#0" />
+                <element signature="e#6919#7197#0" />
+                <element signature="e#6930#7004#0" />
+                <element signature="e#6629#6829#0" />
+                <element signature="e#6852#7268#0" />
+                <element signature="e#6939#7268#0" />
+                <element signature="e#6945#7083#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#318#436#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hex</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/readme" />
+        <option value="$PROJECT_DIR$/start.py" />
+        <option value="$PROJECT_DIR$/core/src.py" />
+        <option value="$PROJECT_DIR$/lib/common.py" />
+        <option value="$PROJECT_DIR$/core/admin.py" />
+        <option value="$PROJECT_DIR$/tcp_client/socket_client.py" />
+        <option value="$PROJECT_DIR$/conf/settings.py" />
+        <option value="$PROJECT_DIR$/core/user.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-14" />
+    <option name="y" value="7" />
+    <option name="width" value="708" />
+    <option name="height" value="687" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="youku_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youku_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youku_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youku_client" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youku_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youku_client" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youku_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youku_client" type="462c0819:PsiDirectoryNode" />
+              <item name="tcp_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youku_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youku_client" type="462c0819:PsiDirectoryNode" />
+              <item name="upload_files" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../youku_server" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python脱产10期视频\day42\youku\youku_client\upload_files" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="youku_client" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="482ebce2-0e6d-4f88-91cb-ab21a82167ac" name="Default Changelist" comment="" />
+      <created>1566872163590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566872163590</updated>
+      <workItem from="1566872164753" duration="4731000" />
+      <workItem from="1566952461360" duration="11614000" />
+      <workItem from="1567038783987" duration="13043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29388000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-14" y="7" width="708" height="687" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19598766" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.48867926" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Statistic" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32830188" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Run" order="13" weight="0.41320756" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32866043" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/core/user.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/core/user.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/youku_client$start.coverage" NAME="start Coverage Results" MODIFIED="1567052291858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/readme" />
+    <entry file="file://$PROJECT_DIR$/start.py" />
+    <entry file="file://$PROJECT_DIR$/core/src.py" />
+    <entry file="file://D:/Python36/Lib/hashlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcp_client/socket_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="136" column="43" selection-start-line="136" selection-start-column="29" selection-end-line="136" selection-end-column="43" />
+          <folding>
+            <element signature="e#108#131#0" />
+            <element signature="e#159#843#0" />
+            <element signature="e#352#843#0" />
+            <element signature="e#363#521#0" />
+            <element signature="e#534#568#0" />
+            <element signature="e#733#781#0" />
+            <element signature="e#988#1129#0" />
+            <element signature="e#1239#1372#0" />
+            <element signature="e#1464#3280#0" />
+            <element signature="e#1484#3105#0" />
+            <element signature="e#1716#1752#0" />
+            <element signature="e#1845#1883#0" />
+            <element signature="e#2115#2243#0" />
+            <element signature="e#2468#3153#0" />
+            <element signature="e#2417#2662#0" />
+            <element signature="e#3003#3051#0" />
+            <element signature="e#3113#3114#0" />
+            <element signature="e#3597#4415#0" />
+            <element signature="e#4110#4223#0" />
+            <element signature="e#4367#4415#0" />
+            <element signature="e#4442#4486#0" />
+            <element signature="e#4523#4835#0" />
+            <element signature="e#4613#4746#0" />
+            <element signature="e#4848#4953#0" />
+            <element signature="e#4978#5391#0" />
+            <element signature="e#5080#5391#0" />
+            <element signature="e#5086#5206#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="14" selection-start-line="8" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="228" selection-start-line="228" selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="43" column="61" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="61" />
+          <folding>
+            <element signature="e#133#176#0" />
+            <element signature="e#204#887#0" />
+            <element signature="e#224#887#0" />
+            <element signature="e#397#887#0" />
+            <element signature="e#408#565#0" />
+            <element signature="e#578#612#0" />
+            <element signature="e#777#825#0" />
+            <element signature="e#1032#1183#0" />
+            <element signature="e#1614#2049#0" />
+            <element signature="e#1650#1681#0" />
+            <element signature="e#1757#2007#0" />
+            <element signature="e#1768#1858#0" />
+            <element signature="e#2093#2378#0" />
+            <element signature="e#2104#2189#0" />
+            <element signature="e#2426#4349#0" />
+            <element signature="e#2446#4349#0" />
+            <element signature="e#2481#2612#0" />
+            <element signature="e#2720#4277#0" />
+            <element signature="e#3208#3441#0" />
+            <element signature="e#3563#4277#0" />
+            <element signature="e#3861#3924#0" />
+            <element signature="e#4026#4219#0" />
+            <element signature="e#4080#4189#0" />
+            <element signature="e#4305#4349#0" />
+            <element signature="e#4397#6528#0" />
+            <element signature="e#4418#6528#0" />
+            <element signature="e#4624#4658#0" />
+            <element signature="e#4703#4833#0" />
+            <element signature="e#4941#6456#0" />
+            <element signature="e#5429#5662#0" />
+            <element signature="e#5784#6456#0" />
+            <element signature="e#6205#6398#0" />
+            <element signature="e#6259#6368#0" />
+            <element signature="e#6484#6528#0" />
+            <element signature="e#6580#6870#0" />
+            <element signature="e#6591#6668#0" />
+            <element signature="e#6775#6819#0" />
+            <element signature="e#6919#7197#0" />
+            <element signature="e#6930#7004#0" />
+            <element signature="e#6629#6829#0" />
+            <element signature="e#6852#7268#0" />
+            <element signature="e#6939#7268#0" />
+            <element signature="e#6945#7083#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#318#436#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
